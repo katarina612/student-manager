@@ -1,0 +1,67 @@
+Class Label: IV-2
+Class Teacher: prof. Helena P.
+Schedule: 
+ - Monday: 1
+ - Friday: 3
+
+Students:
+ - Ana Perić
+   Grades: [5, 4, 5, 5, 5]
+   Activity: ++++
+   Homework: ++
+   Notes: [Aktivna]
+
+ - Marko Lukić
+   Grades: [3, 4, 4, 5]
+   Activity: +++
+   Homework: ++
+   Notes: [Kasnio]
+
+ - Jovana Petrović
+   Grades: [5, 5, 5, 5]
+   Activity: ++++
+   Homework: ++
+   Notes: [Odlična]
+
+ - Nikola Janković
+   Grades: [2, 3, 2, 5]
+   Activity: ++
+   Homework: +
+   Notes: [Pasivan]
+
+ - Milica Stanković
+   Grades: [4, 4, 4, 5]
+   Activity: +++
+   Homework: +++
+   Notes: [Uredna]
+
+ - Stefan Ilić
+   Grades: [5, 4, 5, 5]
+   Activity: ++
+   Homework: +
+   Notes: [Aktivan]
+
+ - Tamara Obradović
+   Grades: [3, 3, 4, 5]
+   Activity: +++
+   Homework: +
+   Notes: [Tiha]
+
+ - Ivan Nikolić
+   Grades: [4, 4, 3, 5]
+   Activity: ++
+   Homework: ++
+   Notes: [Redovan]
+
+ - Lena Milić
+   Grades: [5, 5, 5, 5]
+   Activity: ++++
+   Homework: +++
+   Notes: [Izuzetna]
+
+ - Petar Vasić
+   Grades: [3, 2, 3, 5]
+   Activity: ++
+   Homework: +
+   Notes: [Nepouzdan]
+
